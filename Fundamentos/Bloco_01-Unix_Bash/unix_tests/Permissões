@@ -1,0 +1,5 @@
+chmod (comando de permissões do arq)
+a (all), g (grupo), o (others), u (dono)
++ (add permissão) ou - (remove permissão)
+r (read), w (write), x (executar)
+nome do arquivo
