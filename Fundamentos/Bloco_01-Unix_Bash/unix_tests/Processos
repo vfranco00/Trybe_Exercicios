@@ -1,0 +1,5 @@
+sleep 'tempo' (terminal dorme - front)
+sleep 'tempo' & (terminal não dorme - roda background)
+ctrl + z (suspende o processo)
+jobs (processos que estão rodando)
+kill % numero do processo (mata o processo em execução ou suspenso)

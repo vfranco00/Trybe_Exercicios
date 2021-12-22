@@ -1,0 +1,13 @@
+https://app.betrybe.com/course/fundamentals/git-github-e-internet/internet-entendendo-como-ela-funciona/7f95c1f2-3cce-4631-81a6-ae2f6c34a8c1/o-que-vamos-aprender/61e947eb-ab95-4668-a4eb-3cf52edcdefc?use_case=side_bar
+
+Recursos adicionais:
+- https://www.hostinger.com.br/tutoriais/comando-curl-linux
+- https://jvns.ca/blog/2019/08/27/curl-exercises/
+- https://developer.chrome.com/docs/devtools/network/
+- https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PLQq8-9yVHyOYMFAc9v7Yb_cqmNMksEdrk&ab_channel=NICbrvideos
+- https://www.youtube.com/watch?v=7_LPdttKXPc&t=46s&ab_channel=Aaron
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+- https://www.youtube.com/watch?v=72snZctFFtA&t=45s&ab_channel=DNSMadeEasyVideos
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name#how_does_a_dns_request_work
+- https://www.youtube.com/watch?v=BrXPcaRlBqo&ab_channel=Google
+- https://www.youtube.com/watch?v=ewrBalT_eBM&ab_channel=WorldScienceFestival
